@@ -13,7 +13,7 @@ TEL:977361557\n
 FAX:977363425\n
 !9!9   ALBARA ENTREGA\n
 BAR LA  VIA\n
-\n";
+\n
 !BNIF          : B55696355\n
 Data         : Dimarts 29-03-2022\n
 Adre‡a       : SEGRE,2\n
@@ -29,7 +29,7 @@ ________________________________________________________\n
 \n
 VB\n
 \n
-\n\n\n{C:29}V{C:0}
+\n\n\n
 `;
 
 export class Impresora {
