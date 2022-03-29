@@ -4,7 +4,7 @@ escpos.USB = require('escpos-usb');
 
 const tipoImpresora = 'USB';
 
-class Dispositivos {
+export class Dispositivos {
     async getDevice() {
         if(os.platform() === 'linux') {
             console.log("Soy linux");
@@ -26,5 +26,3 @@ class Dispositivos {
         }
     }
 }
-
-exports.Dispositivos = Dispositivos;
